@@ -4,7 +4,13 @@ LEGEND
 + New feature
 * Improvement/modification or bug fix
 
-
+== Change Log v20.5 ==
+  * Improve Interface
+  * Improve MusicPlay
+  * Improve Open Url
+  * Bug Fixes
+  * Build #1 CRC32 > 615806ca
+  
 == Change Log v20.4 ==
   * Update Patch Pattern
   * Build #1 CRC32 > a3951176

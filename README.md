@@ -19,7 +19,10 @@ Due to the frequency of patch updates, the source files of idm are not provided 
 
 ## useful
 
-[check update address](https://idm.ckk.ir/)
+[check update address new](https://idm.0dy.ir/)
+with UA `Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko`
+
+~~[check update address](https://idm.ckk.ir/)~~
 
 [changelog](./Changelog.txt)
 
